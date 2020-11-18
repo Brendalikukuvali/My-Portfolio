@@ -16,11 +16,16 @@ p{
 
 h3{
 	color: #000;
-
 }
 
 h4{
-	color: blue;
+	color: #000;
+    font-size: 30px;
+}
+
+h6{
+    color: blue;
+    font-size: 20px;
 }
 
 li{
@@ -42,9 +47,7 @@ button.close {
 
 .main-skill-container{
     padding: 5rem;
-    /*background-color: #fff;*/
-   /* background-image: url(https://mdbootstrap.com/img/Photos/Others/background2.jpg);*/
-
+    background-color: #fff;
 
 }
 .skill-percentage{
